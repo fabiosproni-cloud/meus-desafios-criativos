@@ -1,4 +1,5 @@
 #O Prompt Final#
+
 #Arquitetura do Workflow no n8n#
 
 Para atender à sua necessidade de capturar leads, validar e-mails, salvar em planilhas e enviar notificações, você precisará de 5 nós (nodes) principais.
